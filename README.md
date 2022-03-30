@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lyutails.github.com/rsschool-cv/cv
