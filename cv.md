@@ -1,5 +1,5 @@
 # Lyusya
-
+email: lyusya@lyusya.com           phone: +7(777)777-77-77
 ---------------------
 
 ## Edu
