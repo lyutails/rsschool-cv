@@ -2,9 +2,9 @@
 
 ## Contacts
 
-*Location: remains to be seen
-*Phone: +7(777)777-77-77
-*Email: lyusya@lyusya.com    
+* Location: remains to be seen
+* Phone: +7(777)777-77-77
+* Email: lyusya@lyusya.com    
 
 ---------------------
 
