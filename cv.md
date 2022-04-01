@@ -11,15 +11,21 @@
 
 ---------------------
 
-## Edu
+## Skillset / Tech Stack
 
 **remains to be seen**
 
 ---------------------
 
-## Skillset / Tech Stack
+## Experience
 
 _remains to be seen_
+
+--------------------
+
+## Edu
+
+remains to be seen
 
 ---------------------
 
