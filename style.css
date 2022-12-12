@@ -80,6 +80,14 @@
     margin: 0 auto;
 }
 
+.about {
+    width: 350px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .ava {
     margin: 20px 0px 10px 0px;
 }
@@ -90,6 +98,22 @@
     color: black;
     margin-bottom: 10px;
     user-select: none;
+}
+
+.contacts {
+    list-style: none;
+}
+
+.phone {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: black;
+}
+
+.email {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: black;
 }
 
 .skillset {
@@ -141,6 +165,41 @@
     font-size: 16px;
     color: black;
     margin-bottom: 10px;
+}
+
+.projects {
+    font-family: 'Roboto Bold';
+    font-size: 20px;
+    color: black;
+    user-select: none;
+    margin-bottom: 5px;
+}
+
+.projects_items {
+    list-style: none;
+    user-select: none;
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+    user-select: none;
+}
+
+.code {
+    font-family: 'Roboto Bold';
+    font-size: 16px;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.code_example {
+    width: 320px;
+    height: 24px;
+    border: solid 1px hotpink;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
 }
 
 .extracurriculars {
