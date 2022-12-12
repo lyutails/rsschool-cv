@@ -1,4 +1,45 @@
-* {    
+* {
     margin: 0;
     padding: 0;
 }
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./refs/Roboto/Roboto-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto Bold";
+    src: url("./refs/Roboto/Roboto-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Island Moments";
+    src: url("./refs/Island_Moments/IslandMoments-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Satisfy";
+    src: url("./refs/Satisfy/Satisfy-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Shadows Into Light";
+    src: url("./refs/Shadows_Into_Light/ShadowsIntoLight-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main {
+    width: 100%;
+    background-color: rgb(217, 163, 93);
+}
+
