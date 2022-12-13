@@ -90,6 +90,7 @@
 
 .ava {
     margin: 20px 0px 10px 0px;
+    border-radius: 5px;
 }
 
 .just_me {
@@ -104,13 +105,7 @@
     list-style: none;
 }
 
-.phone {
-    font-family: 'Roboto';
-    font-size: 16px;
-    color: black;
-}
-
-.email {
+.contact {
     font-family: 'Roboto';
     font-size: 16px;
     color: black;
@@ -192,14 +187,14 @@
     margin-bottom: 5px;
 }
 
-.code_example {
-    width: 320px;
-    height: 24px;
-    border: solid 1px hotpink;
-    margin-bottom: 10px;
+.code_examples {  
     display: flex;
-    align-items: center;
-    padding-left: 10px;
+    flex-direction: column;
+    justify-content: flex-start;  
+    border: solid 1px hotpink;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
 }
 
 .extracurriculars {
