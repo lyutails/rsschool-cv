@@ -76,7 +76,6 @@
 
 .main {
     width: 100%;
-    height: 100%;
     background-color: antiquewhite;
 }
 
@@ -133,6 +132,7 @@
     font-family: 'Roboto';
     font-size: 16px;
     color: black;
+    margin-bottom: 10px;
 }
 
 .skillset {
