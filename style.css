@@ -175,6 +175,14 @@
     align-items: center;
 }
 
+.uni {
+    text-decoration: none;
+}
+
+.uni:visited {
+    color: black;
+}
+
 .experience {
     font-family: 'Roboto Bold';
     font-size: 20px;
